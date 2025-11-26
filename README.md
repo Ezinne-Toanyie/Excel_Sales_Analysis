@@ -10,7 +10,7 @@
 
 
 
-###### **🔍 Project Overview**
+#### **🔍 Project Overview**
 
 
 
@@ -36,7 +36,7 @@ The goal was to build an interactive **Sales Performance Dashboard** that delive
 
 
 
-###### 📁 **Dataset Description**
+#### 📁 **Dataset Description**
 
 
 
@@ -74,11 +74,11 @@ The dataset consists of structured transaction records with fields such as:
 
 ###### 
 
-###### **🛠 Tools \& Techniques Used**
+#### **🛠 Tools \& Techniques Used**
 
 
 
-**Tools**
+##### **Tools**
 
 
 
@@ -86,7 +86,7 @@ The dataset consists of structured transaction records with fields such as:
 
 
 
-**Techniques**
+##### **Techniques**
 
 
 
@@ -101,12 +101,12 @@ The dataset consists of structured transaction records with fields such as:
 
 
 
-###### **📌 Key Analysis Performed**
+#### **📌 Key Analysis Performed**
 
 
 
 * Sales by product category
-* Revenue trends by month 
+* Revenue trends by month
 * Branch performance comparison
 * Customer demographic breakdown
 * Payment method distribution
@@ -115,7 +115,7 @@ The dataset consists of structured transaction records with fields such as:
 
 
 
-###### **📈 Dashboard Features**
+#### **📈 Dashboard Features**
 
 
 
@@ -139,7 +139,7 @@ The dashboard presents:
 
 ###### 
 
-###### **💡 Key Insights**
+#### **💡 Key Insights**
 
 
 
@@ -156,7 +156,7 @@ Here are some high-level insights uncovered:
 
 ###### 
 
-###### ✅ **Recommendations**
+#### ✅ **Recommendations**
 
 
 
@@ -169,11 +169,9 @@ Based on the analysis:
 * Promote digital payment channels.
 * Schedule promotions during low-performing periods.
 
+#### 
 
-
-
-
-###### 📂 **Repository Structure**
+#### 📂 **Repository Structure**
 
 
 
@@ -188,4 +186,7 @@ EXCEL\_SALES ANALYSIS/
 │── Screenshots/
 
 │ └── Sales Dashboard.png
+
+
+
 
