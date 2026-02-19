@@ -171,22 +171,4 @@ Based on the analysis:
 
 #### 
 
-#### 📂 **Repository Structure**
-
-
-
-EXCEL\_SALES ANALYSIS/
-
-│── SALES PERFORMANCE ANALYSIS.xlsx
-
-│── Dataset.xlsx
-
-│── README.md
-
-│── Screenshots/
-
-│ └── Sales Dashboard.png
-
-
-
 
